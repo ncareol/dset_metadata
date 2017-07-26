@@ -7,6 +7,16 @@
     <rdf:Description rdf:about="223c59e0-4afb-4b31-a340-092609ad018f">
         <dc:title>UCAR/NCAR - Earth Observing Laboratory</dc:title>
         <foaf:mbox rdf:resource="mailto:eol-datahelp@ucar.edu"/>
+        <foaf:homepage rdf:resource="https://data.eol.ucar.edu"/>
+        <v:adr>
+            <v:Address>
+                <v:street-address>P.O. Box 3000</v:street-address>
+                <v:postal-code>80307</v:postal-code>
+                <v:locality>Boulder</v:locality>
+                <v:region>CO</v:region>
+                <v:country-name>USA</v:country-name>
+            </v:Address>
+        </v:adr>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
     </rdf:Description>
 </rdf:RDF>
